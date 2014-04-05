@@ -1,0 +1,13 @@
+mk1:
+module init, exit, para...
+
+mk2:
+mk2 depends on mk1, so should copy Module.symvers of mk1 first.
+
+mk3:
+kernel thread and rcu.
+
+mk4:
+list test.
+
+
