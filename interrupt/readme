@@ -1,0 +1,3 @@
+insmod interrupt.ko interface=eth0 irq=9
+lsmod |grep interruptinterrupt 
+rmmod interrupt.ko 
